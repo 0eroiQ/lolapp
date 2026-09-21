@@ -696,22 +696,6 @@ Esto permite mantener el `README.md` como **página principal del proyecto**, ev
 
 ---
 
-# 📸 Capturas
-
-Las capturas pueden almacenarse en:
-
-```text
-docs/screenshots/
-```
-
-Ejemplo:
-
-```markdown
-![Inicio](docs/screenshots/home.png)
-![Detalle](docs/screenshots/detail.png)
-![Player](docs/screenshots/player.png)
-![Android TV](docs/screenshots/tv.png)
-```
 
 ---
 
