@@ -298,3 +298,5 @@ Al usar LolPlusTV aceptas que:
 <p align="center">
   Hecho con Flutter · Mobile & Android TV
 </p>
+#   l o l a p p  
+ 
