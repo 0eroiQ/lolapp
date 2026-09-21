@@ -509,7 +509,7 @@ Se utiliza para datos como:
 
 <p align="center">
   <a href="https://www.themoviedb.org/">
-    <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88fe984d149ef0a8118227d1e93b0dc07f6b8b839.svg" alt="TMDB" width="180"/>
+    <img src="assets/images/tmdb.png" alt="TMDB" width="180"/>
   </a>
 </p>
 
