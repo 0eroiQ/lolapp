@@ -672,31 +672,6 @@ El proyecto puede generar builds destinados a dispositivos Android TV utilizando
 
 ---
 
-# 🗂️ Documentación
-
-La documentación adicional del proyecto puede organizarse en:
-
-```text
-docs/
-│
-├── ARCHITECTURE.md
-├── ADDONS.md
-├── SOURCES.md
-├── EXTRACTORS.md
-├── THEMES.md
-├── PLAYER.md
-├── TV.md
-├── API.md
-├── PRIVACY.md
-├── LEGAL.md
-└── screenshots/
-```
-
-Esto permite mantener el `README.md` como **página principal del proyecto**, evitando convertirlo en un documento gigantesco.
-
----
-
-
 ---
 
 # 📄 Licencia
